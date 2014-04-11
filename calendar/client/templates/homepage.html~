@@ -1,1 +1,7 @@
-template 
+<template name="homepage">
+    <div class="hero-unit">
+	<h1>Calendar Application</h1>
+	<p>Manage your calendar</p>
+	<p>sdfghjk</p>
+    </div>
+</template> 

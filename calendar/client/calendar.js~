@@ -5,7 +5,7 @@ Meteor.Router.add({
 	'/':'homepage',
 	'/calendar':'calendar1'
 })
-Template.calendar1.rendered = function(){
+Template.calendar.rendered = function(){
 
 }
 
